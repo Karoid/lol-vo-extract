@@ -12,15 +12,41 @@
 			]
 		},
 		"lang": {
-			"description": "解压语言",
+			"description": "language type in https://ddragon.leagueoflegends.com/cdn/languages.json",
 			"type": "string",
 			"enum": [
+				"cs_cz",
+				"el_gr",
+				"pl_pl",
+				"ro_ro",
+				"hu_hu",
+				"en_gb",
+				"de_de",
+				"es_es",
+				"it_it",
+				"fr_fr",
+				"ja_jp",
+				"ko_kr",
+				"es_mx",
+				"es_ar",
+				"pt_br",
+				"en_us",
+				"en_au",
+				"ru_ru",
+				"tr_tr",
+				"ms_my",
+				"en_ph",
+				"en_sg",
+				"th_th",
+				"vn_vn",
+				"id_id",
+				"zh_my",
 				"zh_cn",
-				"en_us"
+				"zh_tw"
 			]
 		},
 		"format": {
-			"description": "音频文件格式",
+			"description": "Voice output file extension",
 			"type": "string",
 			"enum": [
 				"wav",

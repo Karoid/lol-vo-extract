@@ -1,0 +1,14 @@
+{
+  "_______Config Reference________": "https://github.com/lol-archiver/lol-vo-extract/tree/651176313b94d3f0cc59b01b91678c7440202b58/config",
+  "_______target Reference________": "data/base/en_us.json",
+  "target": "Jhin|0|0",
+  "lang": "ko_kr",
+  "locale": "ko_kr",
+  "format": "wav",
+  "useSFXLevel": 2,
+  "_path": {
+    "rextractorConsole": "C:/Program Files/RavioliGameTools/RExtractorConsole.exe",
+    "dirGameVoice": "C:/Riot Games/League of Legends",
+    "zstd": "C:/Program Files/zstd/zstd.exe"
+    }
+  }

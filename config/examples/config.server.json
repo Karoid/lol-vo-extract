@@ -1,0 +1,9 @@
+{
+  "sie": "https://sieve.services.riotcdn.net",
+  "solution": "game",
+  "cdn": "https://lol.dyn.riotcdn.net",
+  "proxy": false,
+  "region": "KR",
+  "___how to set manifest___": "After `Entry Fetcher >  fetch  ✔ URL[https://sieve.services.riotcdn.net/api/v1/products/lol/version-sets/KR?q[artifact_type_id]=lol-game-client&q[platform]=windows]` and enter the link to see manifest hash value",
+  "manifest": "9230591E85A138D4"
+  }

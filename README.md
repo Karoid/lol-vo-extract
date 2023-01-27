@@ -26,3 +26,4 @@ node index
 ## Config
 - `lol-vo-extract` uses `config/config.*.json` to determine the behavior of everything.
 - `config/schema/*.json` contains all available options and comments.
+- See `config/examples/*.json` to set config files.
